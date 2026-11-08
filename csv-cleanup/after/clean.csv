@@ -1,0 +1,12 @@
+﻿sku,name,price,currency,date,source
+AB-100,Wireless Mouse,47.00,USD,2024-04-10,supplier_a.csv
+AB-101,כבל USB-C 1 מטר,44.90,ILS,2024-03-05,supplier_b.csv
+AB-102,Espresso Machine,1299.00,USD,2024-03-15,supplier_a.csv
+AB-103,Desk Lamp,24.00,USD,2024-03-25,supplier_c.xlsx
+AB-104,Notebook A5,3.20,USD,2024-03-05,supplier_a.csv
+AB-105,מסך 27 אינץ',1249.00,ILS,2024-04-12,supplier_c.xlsx
+AB-106,מארז סוללות,12.50,ILS,2024-04-02,supplier_b.csv
+AB-107,כיסוי לטלפון,45.00,USD,2024-04-02,supplier_b.csv
+AB-110,Webcam HD,59.90,ILS,2024-04-12,supplier_c.xlsx
+AB-111,Headset,82.00,ILS,2024-02-02,supplier_c.xlsx
+AB-112,USB Hub,19.99,ILS,,supplier_c.xlsx

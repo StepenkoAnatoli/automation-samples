@@ -1,0 +1,5 @@
+﻿source,row,sku,raw_price,raw_date,reason
+supplier_a.csv,7,AB-103,-$5.00,2024-03-20,negative price
+supplier_a.csv,8,,$10,2024-03-01,missing SKU
+supplier_b.csv,8,AB-108,abc,2024-04-03,missing or unreadable price
+supplier_b.csv,9,AB-109,₪ 850,31/02/2024,unreadable date

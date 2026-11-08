@@ -1,0 +1,14 @@
+{
+  "name": "api-to-csv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pull every product from a paginated REST API into an Excel-ready CSV, with a written report.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=24" },
+  "scripts": {
+    "dry-run": "node export.mjs --dry-run",
+    "start": "node export.mjs",
+    "test": "node --test \"test/*.test.mjs\""
+  }
+}
